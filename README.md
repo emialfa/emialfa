@@ -1,4 +1,4 @@
-### Emiliano M ALfaraz 👨🏻‍💻
+###   Emiliano M ALfaraz 👨🏻‍💻
 
 
 I'm a fullstack web developer working with JS, React, Node and many other technologies. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
@@ -12,7 +12,7 @@ I'm a fullstack web developer working with JS, React, Node and many other techno
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
+<img align="left" alt="Next.js" width="26px" height="26px"src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
