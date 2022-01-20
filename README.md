@@ -4,21 +4,6 @@
 I'm a fullstack web developer working with JS, React, Node and many other technologies. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
 <br />
 
-
-
-[<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- Invite me to connect !
- 
-<br />
-I amuse myself stretching my JS abilities: 
-
-<a href="https://www.codewars.com/users/cmzluna/">
-  <img src="https://www.codewars.com/users/cmzluna/badges/small">
-</a> 
-<br />
- 
-
-
 ### Languages and tools I use everyday 💻 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
