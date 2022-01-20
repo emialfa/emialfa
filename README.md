@@ -1,4 +1,4 @@
-###   Emiliano M ALfaraz 👨🏻‍💻
+###   Emiliano M Alfaraz 👨🏻‍💻
 
 
 I'm a fullstack web developer working with JS, React, Node and many other technologies. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
@@ -9,7 +9,7 @@ I'm a fullstack web developer working with JS, React, Node and many other techno
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/lXSPandora/vscode-styled-components-snippets/master/images/styled-components.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Next.js" width="26px" height="26px"src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
